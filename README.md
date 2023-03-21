@@ -2,13 +2,13 @@
 
 Basic GraphClient Setup using application permissions to access the Microsoft Graph API.
 
-Stack:
+# Stack:
 
 .NET 7
 
 C#
 
-Libraries:
+# Libraries:
 
 Microsoft.Graph V.5.2.0
 
